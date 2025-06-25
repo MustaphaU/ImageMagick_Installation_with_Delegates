@@ -1,6 +1,4 @@
-# ImageMagick on WSL
-
-## Installation Guide with Delegates
+# Install ImageMagick with Delegates on WSL2
 
 ### 1. Remove Existing ImageMagick Packages
 
